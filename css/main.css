@@ -1,0 +1,47 @@
+html {
+    font-family: sans-serif;
+}
+
+background {
+    color: white;
+}
+
+header {
+}
+
+h1 {
+    color: maroon;
+    background-color: lightgray;
+}
+
+figure {
+}
+
+img {
+    width: 70%;
+}
+
+figcaption {
+    background-color: lightgray;
+}
+
+cite {
+    text-align: right;
+}
+
+p {
+    font-size: 1rem;
+}
+
+blockquote {
+    font: georgia;
+    background-color: lightgray;
+}
+
+h2 {
+    color: maroon;
+}
+
+ol {
+}
+
